@@ -7,7 +7,7 @@ int helloChai() {
 }
 
 int main() {
-    // lamda expression 
+    // lambda expression 
 
     auto preparedChai = [] (int cups) {
         cout << "Preparing " << cups << " cups of tea." << endl;
