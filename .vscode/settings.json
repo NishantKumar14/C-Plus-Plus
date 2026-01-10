@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.html": "django-html",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "istream": "cpp",
+        "string": "cpp",
+        "iterator": "cpp",
+        "string_view": "cpp",
+        "random": "cpp",
+        "iosfwd": "cpp",
+        "streambuf": "cpp",
+        "system_error": "cpp"
+    }
+}
