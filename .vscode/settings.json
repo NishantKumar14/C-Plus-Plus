@@ -11,5 +11,6 @@
         "iosfwd": "cpp",
         "streambuf": "cpp",
         "system_error": "cpp"
-    }
+    },
+    "workbench.settings.showAISearchToggle": false
 }
