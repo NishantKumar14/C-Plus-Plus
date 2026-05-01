@@ -13,6 +13,7 @@ class Chai {
         Chai(string name, int serve) : teaName(new string(name)), servings(serve) {}
 
         ~Chai() {
+            delete teaName;
             cout << "Destructor called." << endl; 
         }
 
