@@ -34,6 +34,6 @@ class Chai {
 
 int main() {
     Chai quickChai("Quick chai");
-    quickChai.displayChaiDetails(); 
+    quickChai.displayChaiDetails();
     return 0;
 }
